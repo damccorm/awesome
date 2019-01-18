@@ -100,6 +100,7 @@
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
 - [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
+- [This fails](https://github.com/ianstormtaylor/awesome-heroku#readme) - Should fail the linter.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
 - [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions#readme) - Cross-browser extension system.
